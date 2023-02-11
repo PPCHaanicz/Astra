@@ -1,0 +1,11 @@
+========== TODO ==========
+přidat smrt/konec hry
+přidat chování nepřátel
+přidat heal pickupy
+přidat powerupy
+přidat voice acting a související UI prvky - ksicht pilota v rohu třeba
+
+
+
+========== BUGY ==========
+pause menu pauzuje jenom jednou
