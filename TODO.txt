@@ -2,11 +2,10 @@
 zpěknit konec hry
 přidat chování nepřátel
 přidat heal pickupy
+hudba
 přidat powerupy
 přidat voice acting a související UI prvky - ksicht pilota v rohu třeba
-napravit hranice pohybu
-
-
+---napravit hranice pohybu---
 
 ========== BUGY ==========
 pause menu pauzuje jenom jednou
