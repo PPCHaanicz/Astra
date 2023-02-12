@@ -1,6 +1,7 @@
 ========== TODO ==========
 zpěknit konec hry
 přidat chování nepřátel
+ukládání
 přidat heal pickupy
 hudba
 přidat powerupy
