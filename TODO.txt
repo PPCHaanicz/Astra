@@ -2,9 +2,9 @@
 zpěknit konec hry
 přidat chování nepřátel
 ukládání
-přidat heal pickupy
+---přidat heal pickupy---
 hudba
-přidat powerupy
+přidat powerupy možná
 přidat voice acting a související UI prvky - ksicht pilota v rohu třeba
 ---napravit hranice pohybu---
 
